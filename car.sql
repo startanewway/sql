@@ -1,0 +1,12 @@
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (1, 1000, 0, 1);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (2, 1000, 0, 1);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (3, 1000, 0, 1);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (4, 1000, 0, 1);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (5, 1000, 0, 2);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (6, 1000, 0, 2);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (7, 1000, 0, 2);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (8, 1000, 0, 2);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (9, 1000, 0, 3);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (10, 1000, 0, 3);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (11, 1000, 0, 3);
+INSERT INTO `car` (`Cid`, `capacity`, `isused`, `Sid`) VALUES (12, 1000, 0, 3);
